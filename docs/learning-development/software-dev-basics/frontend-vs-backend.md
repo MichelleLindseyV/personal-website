@@ -16,6 +16,7 @@ The frontend and backend are two critial parts of any application.
 - This is also refered to as the graphical user interface (GUI).
 - **Document object model (DOM):** according to MDN web docs, the DOM "is the data representation of the objects that comprise the structure and content of a document on the web."
 - Frontend languages include **HTML** (page structure), **CSS** (styling), and **JavaScript** (dynamic functionality; DOM manipulation).
+- Responsiveness and performance are the two main objectives of the frontend.
 
 ### Document Object Model
 
