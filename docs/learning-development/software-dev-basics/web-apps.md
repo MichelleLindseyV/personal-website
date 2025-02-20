@@ -93,9 +93,41 @@ Both provide you the ability to publish your website.
 
 ## HTML, CSS, JavaScript
 
+- **HTML:** Hypertext Markup Language. HTML is liike the initial structure or shell of your website. It is for structure and semantics.
+- **CSS:** Cascading Style Sheets. It is the styling that enables you to make your website beautiful. It is for styling and layout. Used to apply styles to HTML.
+- **JavaScript:** Scripting language used to control dynamic behavior. Adds interactivity to websites.
+- **API:** Application Programmig Interface, is a bit of code that allows you to control other more complex bits of code or other functionality in a mangageable way.
 
+### Web Standards Model
+
+Web standards are the technologies used to build websites. They exist as long technical documents called specifications that detail exactly how the technology should work.
+
+Web standards are created by standards bodies. They are the institutions that bring people together to discuss and agree on how technologies should work in the best way to fulfill all of their use cases. The W3C is the best known web standards body, but there are others.
+
+### Best Practices
+
+- Progressive enhancement: "is a strategy for web design that emphasizes core web page content first. This strategy then progressively ads more nuanced and technically rigorous layers of presentation and features on top of the content as the end-user's browser/Internet connection allow."
+- Cross-browser compatibility
+- Separating layers
+- Responsive web design
+- Performance
+- Internalization
+- Privacy and Security
+
+### Progressive Enhancement
+
+Core principles:
+
+- Basic conetnt should be accessible to all web browsers
+- Basic functionality should be accessible to all web browsers
+- Sparse, semantic markup contains all content
+- Enhanced layout is provided by externally linked CSS
+- Enhanced behavior is provided by unobtrusive, externally linked JavaScript
+- End-user web browser preferences are respected
 
 ## Web Standards Model
+
+
 
 ## How Browsers Load Webpages
 
