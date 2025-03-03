@@ -72,7 +72,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Writing Portfolio',
           },
           {
             href: 'https://github.com/facebook/docusaurus',
