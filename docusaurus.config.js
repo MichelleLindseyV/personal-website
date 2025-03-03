@@ -97,8 +97,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Substack',
+                href: 'https://shellsscript.substack.com/',
               },
             ],
           },
